@@ -1,5 +1,5 @@
 commonLabels:
-  app: my-wordpress
+  app: argocd
 bases:
 - ./install
 - ./namespace
