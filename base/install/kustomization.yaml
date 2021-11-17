@@ -1,2 +1,2 @@
 resources:
-- install_argocd.yaml
+- ./install_argocd.yaml
